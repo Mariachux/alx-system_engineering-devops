@@ -57,3 +57,12 @@ Task 13- a number with two decimal places.
 Task 14- a script that converts a number from base 10 to base 16.
 
 
+Task 15- a script that encodes and decodes text using the rot13 encryption.
+
+
+
+Task 16- a script that prints every other line from the input, starting with the first line.
+
+
+
+Task 17- a shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
